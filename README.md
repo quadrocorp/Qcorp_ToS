@@ -37,18 +37,20 @@ Contacts:
 > Main rules
 > 
 > `1.1` `If you hire me as an artist you accept all the rules from this ToS` 
-
+>
 > `1.2` `If you hire me as an artist, you agree that you are 18 years old or older.`
-
+>
 > `1.3` `I produce only digital goods.`
-
+>
 > `1.4` `I won’t create anything that violates the law.`
-
+>
 > `1.5` `I’m not drawing characters that don't belong to you.`
-
+>
 > `1.6` `Refund is only available before the Rendering Stage(all the production stages are explained in the Art Checklist article)`
-You accept that you own the character you want me to draw or(if the character isn't yours) you have permission to use it from the author.
-Any kind of offensive attitude towards me will occur in your permanent block.
+>
+> `1.7` `You accept that you own the character you want me to draw or(if the character isn't yours) you have permission to use it from the author.`
+> `1.8` `Any kind of offensive attitude towards me will occur in your permanent block.`
+
 Payment for usual commission:
 I take prepayment. It's always 25% from the final charge.
 You can pay via PayPal, Boosty or Tether USD.
