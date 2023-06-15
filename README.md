@@ -3,28 +3,37 @@
 #Terms of Service
 
 
-> Contacts:
+Contacts:
      
-   * Email: qu4drocorp@gmail.com
-
-   * FurAffinity: https://furaffinity.net/user/furbeyond
-
+* Email: qu4drocorp@gmail.com
+* FurAffinity: https://furaffinity.net/user/furbeyond
 * Twitter: https://twitter.com/qu4drocorp 
-Service list 
-Icons/Avatars
-Fullbody
-Thigh up
-Portrait
-Reference sheet
-Will draw:
-Anthropomorphic animals.
-NSFW/SFW.
+
+##Service list 
+
+* Icons/Avatars
+* Fullbody
+* Thigh up
+* Portrait
+* Reference sheet
+
+##Will draw:
+
+*Anthropomorphic animals.
+*NSFW/SFW.
+
 Not going to draw:
+
 People, MLP, Insects, Dragons.
+
 In plans:
+
 Kemono, Mythical creatures.
+
 If you hire me as an artist, you accept the rules established below.
-Main statements:
+
+'''1''' Main statements:
+
 If you hire me as an NSFW artist, you agree that you are 18 years old or older. Not going to make NSFW artwork for a minor.
 I produce only digital goods.
 I won’t create anything that violates the law.
