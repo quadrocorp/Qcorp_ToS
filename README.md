@@ -30,15 +30,16 @@ Contacts:
 
 * Kemono, Mythical creatures.
 
-**If you hire me as an artist, you accept the rules established below.**
+
 
 > Main rules
 
-> `1.1` `If you hire me as an NSFW artist, you agree that you are 18 years old or older. Not going to make an NSFW artwork for a minor.`
-I produce only digital goods.
-I won’t create anything that violates the law.
-I’m not drawing characters that don't belong to you.
-Refund is only available before the Rendering Stage(all the production stages are explained in the Art Checklist article) 
+`1.1` `If you hire me as an artist you accept all the rules from this ToS` 
+`1.2` `If you hire me as an NSFW artist, you agree that you are 18 years old or older. Not going to make an NSFW artwork for a minor.`
+`1.3` `I produce only digital goods.`
+`1.4` `I won’t create anything that violates the law.`
+`1.5` `I’m not drawing characters that don't belong to you.`
+`1.6` `Refund is only available before the Rendering Stage(all the production stages are explained in the Art Checklist article)`
 You accept that you own the character you want me to draw or(if the character isn't yours) you have permission to use it from the author.
 Any kind of offensive attitude towards me will occur in your permanent block.
 Payment for usual commission:
