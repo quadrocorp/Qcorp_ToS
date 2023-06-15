@@ -21,10 +21,12 @@ Contacts:
 
 * Anthropomorphic animals.
 * NSFW/SFW.
+* Fetishes.
 
 ## Not going to draw:
 
 * People, MLP, Insects, Dragons.
+* Urine, Diapers, Scat, Inflation, Vore, Excessive Gore, Abuse, Child Pornography.
 
 ## In plans:
 
