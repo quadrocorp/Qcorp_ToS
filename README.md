@@ -44,16 +44,16 @@ Contacts:
 >
 > `1.4` `I won’t create anything that violates the law.`
 >
-> `1.5` `I’m not drawing characters that don't belong to you.`
+> `1.5` `I have the right to refuse the commission without explaining the reason.`
 >
 > `1.6` `Refund is only available before the Rendering Stage(all the production stages are explained in the Art Checklist article)`
 >
 > `1.7` `You accept that you own the character you want me to draw or(if the character isn't yours) you have permission to use it from the author.`
 > `1.8` `Any kind of offensive attitude towards me will occur in your permanent block.`
 
-Payment for usual commission:
+> ## Payment 
 I take prepayment. It's always 25% from the final charge.
-You can pay via PayPal, Boosty or Tether USD.
+You can pay via ~~PayPal~~, Boosty or Tether USD.
 `
 Payment for an YCH:
 No refund.
