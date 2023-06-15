@@ -52,20 +52,29 @@ Contacts:
 > `1.8` `Any kind of offensive attitude towards me will occur in your permanent block.`
 
 > ## Payment 
-I take prepayment. It's always 25% from the final charge.
-You can pay via ~~PayPal~~, Boosty or Tether USD.
-`
-Payment for an YCH:
-No refund.
-Payment methods are the same.
-Art Checklist:
-Sketch. Is one of the steps, where changes are available. Simple and rough.
-Line art. Slight changes available.
-Flat colors. Changes available. No shadows, just simple colors. In case you are not pleased with the fur color or pattern, eye color, etc. All those features can be changed for free.
-Pre-render. Changes are available. This is the stage, where I will sketch the light and shadows. (All available types of rendering are listed in the Style section.)
-Rendering stage. Adding shadows, textures, lights, reflections, reflexes(light bouncing from surface to surface adding an ambient effect). 
-Post-processing. Adding particles, fog, sun rays, etc.
+>
+> `2.1` `I take prepayment. It's always 25% from the final charge.`
+>
+> `2.2` 'Payment is via ~~PayPal~~, Boosty or Tether USD (TRC-20).`
+>
+> `2.3` `Refund is unavailable for the YCH.`
+
+
+> ## Art Checklist
+> `3.1` `Sketch. Is one of the steps, where changes are available. Simple and rough.`
+>
+> `3.2` `Line art. Slight changes available.`
+>
+> `3.3` `Flat colors. Changes available. No shadows, just simple colors. In case you are not pleased with the fur color or pattern, eye color, etc. All those features can be changed for free.`
+>
+> `3.4` `Pre-render. Changes are available. This is the stage, where I will sketch the light and shadows. (All available types of rendering are listed in the Style section.)`
+>
+> `3.5` `Rendering stage. Adding shadows, textures, lights, reflections, reflexes(light bouncing from surface to surface adding an ambient effect).`
+>
+> `3.6` `Post-processing. Adding particles, fog, sun rays, etc.`
+
 Style:
+
 I am not copying anyone's style.
 My perception can be different from yours, so don't be afraid to ask for a change.
 My works are available in different types of render:
