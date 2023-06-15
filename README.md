@@ -19,18 +19,18 @@ Contacts:
 
 ## Will draw:
 
-*Anthropomorphic animals.
-*NSFW/SFW.
+* Anthropomorphic animals.
+* NSFW/SFW.
 
-Not going to draw:
+## Not going to draw:
 
-People, MLP, Insects, Dragons.
+* People, MLP, Insects, Dragons.
 
-In plans:
+## In plans:
 
-Kemono, Mythical creatures.
+* Kemono, Mythical creatures.
 
-If you hire me as an artist, you accept the rules established below.
+### **If you hire me as an artist, you accept the rules established below.**
 
 `1 Main statements`
 
