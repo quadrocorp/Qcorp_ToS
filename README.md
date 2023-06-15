@@ -32,7 +32,7 @@ Kemono, Mythical creatures.
 
 If you hire me as an artist, you accept the rules established below.
 
-`1` Main statements:
+`1 Main statements:
 
 If you hire me as an NSFW artist, you agree that you are 18 years old or older. Not going to make NSFW artwork for a minor.
 I produce only digital goods.
@@ -44,6 +44,7 @@ Any kind of offensive attitude towards me will occur in your permanent block.
 Payment for usual commission:
 I take prepayment. It's always 25% from the final charge.
 You can pay via PayPal, Boosty or Tether USD.
+`
 Payment for an YCH:
 No refund.
 Payment methods are the same.
