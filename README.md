@@ -55,7 +55,7 @@ Contacts:
 >
 > `2.1` `I take prepayment. It's always 25% from the final charge.`
 >
-> `2.2` 'Payment is via ~~PayPal~~, Boosty or Tether USD (TRC-20).`
+> `2.2` `Payment is via ~~PayPal~~, Boosty or Tether USD (TRC-20).`
 >
 > `2.3` `Refund is unavailable for the YCH.`
 
@@ -100,7 +100,5 @@ Identification number.
 The way I can contact you in case of needed discussion or to send you WIPs.
 The time zone you live in and the time when it is comfortable for you, so that I am able to send you the WIPs.
 Deadline. Will contact you if something goes wrong.
-For Boosty and Cropty(Tether USD). Send me a tip with the same comment as in par. 5.3
-
-Link to a full(NSFW) ToS: link
+For Boosty and Cropty(Tether USD). Send me a tip with the same comment as in par.
 
