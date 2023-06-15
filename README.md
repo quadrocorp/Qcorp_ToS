@@ -35,10 +35,10 @@ Contacts:
 
 
 > Main rules
-
+> 
 > `1.1` `If you hire me as an artist you accept all the rules from this ToS` 
 
-> `1.2` `If you hire me as an NSFW artist, you agree that you are 18 years old or older. Not going to make an NSFW artwork for a minor.`
+> `1.2` `If you hire me as an artist, you agree that you are 18 years old or older.`
 
 > `1.3` `I produce only digital goods.`
 
