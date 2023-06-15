@@ -34,7 +34,7 @@ Contacts:
 
 
 
-> Main rules
+> ## Main rules
 > 
 > `1.1` `If you hire me as an artist you accept all the rules from this ToS` 
 >
