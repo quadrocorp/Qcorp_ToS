@@ -32,7 +32,7 @@ Kemono, Mythical creatures.
 
 If you hire me as an artist, you accept the rules established below.
 
-'''1''' Main statements:
+''' 1 ''' Main statements:
 
 If you hire me as an NSFW artist, you agree that you are 18 years old or older. Not going to make NSFW artwork for a minor.
 I produce only digital goods.
