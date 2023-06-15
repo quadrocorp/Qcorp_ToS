@@ -1,6 +1,6 @@
 # Qcorp_ToS
 
-#Terms of Service
+# Terms of Service
 
 
 Contacts:
@@ -9,7 +9,7 @@ Contacts:
 * FurAffinity: https://furaffinity.net/user/furbeyond
 * Twitter: https://twitter.com/qu4drocorp 
 
-##Service list 
+## Service list 
 
 * Icons/Avatars
 * Fullbody
@@ -17,7 +17,7 @@ Contacts:
 * Portrait
 * Reference sheet
 
-##Will draw:
+## Will draw:
 
 *Anthropomorphic animals.
 *NSFW/SFW.
