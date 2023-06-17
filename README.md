@@ -75,23 +75,37 @@ Contacts:
 
 Style:
 
-I am not copying anyone's style.
-My perception can be different from yours, so don't be afraid to ask for a change.
-My works are available in different types of render:
-Sketch: Full lineart, Simple shadows, simple background.
-Cell Shading, Full render: Cell shading, Light, Background, Post-processing.
-Full render: Realistic shadows and light, reflections, background and post-processing.
-My style can differ too:
-Clean and Fluffy: Clean, solid lineart. Fur style can be chosen.
-Dirty Furry: Noisy lineart(pencil effect), Fur style can be chosen.
-Line less: No lineart. Fur style can be chosen.
-Line less and Fluffy: Experimental. No lineart. Realistic fur.
-Fur:
-Fur is divided by a line.(Sketchy effect)
-Fur is divided without a line.
-Cartoon fur.
-Realistic fur.
-Your preferences regarding fur, lineart, eyes etc. can be discussed but will change the price. 
+`4.1` `I am not copying anyone's style.
+My perception can be different from yours, so don't be afraid to ask for a change.`
+
+`4.2``My works are available in different types of render:`
+
+` *4.2.1` `Sketch:` `Full lineart, Simple shadows, simple background.`
+` *4.2.2` `Cell Shading, Full render:` `Cell shading, Light, Background, Post-processing.`
+` *4.2.3` `Full render:` Realistic shadows and light, reflections, background and post-processing.`
+
+`4.3` `My style can differ too:`
+
+`4.3.1` `Clean and Fluffy:` `Clean, solid lineart. Fur style can be chosen.`
+
+`4.3.2` `Dirty Furry:` `Noisy lineart(pencil effect), Fur style can be chosen.`
+
+`4.3.3` `Line less:` `No lineart. Fur style can be chosen.`
+
+`4.3.4` `Line less and Fluffy:` `Experimental. No lineart. Realistic fur.`
+
+`4.4` `Fur:`
+
+`4.4.1` `Fur is divided by a line.(Sketchy effect)`
+
+`4.4.2` `Fur is divided without a line.`
+
+`4.4.3` `Cartoon fur.`
+
+`4.4.4` `Realistic fur.`
+
+`4.5` `**Your preferences** regarding fur, lineart, eyes etc. can be discussed but will change the price.`
+
 5 How does it work? (PayPal - Refundable, Boosty - Refundable for Visa or MasterCard, ):
 When you've contacted me and we discussed the commission details you will get the cost of the work.
 You get the identification number, which is used as a comment for the transaction.
